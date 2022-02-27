@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The common-hunt, or, the pursute of the Pope</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80249</idno>
+            <idno type="STC">Wing C5568A</idno>
+            <idno type="STC">ESTC R228558</idno>
+            <idno type="EEBO-CITATION">99895263</idno>
+            <idno type="PROQUEST">99895263</idno>
+            <idno type="VID">152643</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80249)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152643)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2311:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The common-hunt, or, the pursute of the Pope</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Drop-head title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>In verse.</note>
+                  <note>First line of text: "Religion having suffer'd long,".</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anti-Catholicism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:152643:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <head>THE Common-HUNT, OR, THE PURSUTE OF THE POPE.</head>
+            <l>
+               <seg rend="decorInit">R</seg>ELIGION having ſuffer'd long,</l>
+            <l>Scarce knowing who had done her wrong;</l>
+            <l>Her Proſelytes together flew</l>
+            <l>By th' Ears, to kill they knew not who.</l>
+            <l>Here lay, making a heavy ſtir,</l>
+            <l>Fifth-Monarchy and Presbyter;</l>
+            <l>There Independent, after Pauſe,</l>
+            <l>Demanding for the <hi>Good old Cauſe:</hi>
+            </l>
+            <l>Next Anabaptiſt, and his Train,</l>
+            <l>Put in for <hi>Dipping</hi> o're again;</l>
+            <l>While <hi>Yea</hi> and <hi>Nay,</hi> with his <hi>new Light,</hi>
+            </l>
+            <l>Quarrels, altho he dare not fight;</l>
+            <l>Next enters, after many knocks,</l>
+            <l>Epiſcopacy Orthodox;</l>
+            <l>
+               <pb n="2" facs="tcp:152643:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 14 -->
+She, propper Lady of the ſoil,</l>
+            <l>Compoſes the unhappy Broil.</l>
+            <l>Now all is well, and all goes right,</l>
+            <l>There's no need now to hate or fight,</l>
+            <l>Now Pro<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elytes may all agree,</l>
+            <l>And live in Love and Liberty:</l>
+            <l>But hold, poor Church! and thou ſhalt find,</l>
+            <l>That thy worſt Enemy's behind,</l>
+            <l>Who with his ſuperſtitious Crew</l>
+            <l>Does ſeek thee utterly t' undoe.</l>
+            <l>'Tis he who, in Queen <hi>Mary's</hi> Regions,</l>
+            <l>Sent Saints to Heaven by whole Legions:</l>
+            <l>'Tis he who did, in Eighty eight,</l>
+            <l>Strike both at <hi>Englands</hi> Church and State:</l>
+            <l>'Tis he who did, in Powder Plot,</l>
+            <l>At <hi>England</hi> aim, but miſt his ſhot:</l>
+            <l>'Tis he who has ſo oft, at Pleaſure,</l>
+            <l>Exhauſted <hi>Englands</hi> well got Treaſure:</l>
+            <l>'Tis he whoſe greateſt Envy is</l>
+            <l>'Gainſt <hi>Englands</hi> fair Metropolis:</l>
+            <l>'Tis he, that Dam'ner great of ſouls,</l>
+            <l>Who Chriſtianity Controuls:</l>
+            <l>
+               <pb n="3" facs="tcp:152643:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 14 -->
+'Tis he who did in <hi>Sixty Six,</hi>
+            </l>
+            <l>His flaming Sword in <hi>London</hi> fix:</l>
+            <l>'Tis he who, big with fire and Nitre,</l>
+            <l>It's Suburbs Sacrific'd to th' Mitre:</l>
+            <l>'Tis he, who Nurſing Mother ſent</l>
+            <l>Unto our Church, with this intent,</l>
+            <l>Not to be kind to it, but rather</l>
+            <l>T'orelay the Babe, and kill the Father:</l>
+            <l>'Tis he, grand Patron of Confuſion,</l>
+            <l>Who works in Houſes Diſſolution:</l>
+            <l>'Tis he who, true Arch-Rebel Monger,</l>
+            <l>'Gainſt elder Brother ſets the younger,</l>
+            <l>And nothing leſs than Saint-ſhip brings</l>
+            <l>To Villains that dare kill their Kings:</l>
+            <l>He who, at diſtance, can Preferr</l>
+            <l>In any Realm a Treaſurer,</l>
+            <l>And Murther Miniſter of Juſtice</l>
+            <l>That dare act up to what his Truſt is:</l>
+            <l>And yet, though he have nothing leſs,</l>
+            <l>No Name fits him, but Holineſs.</l>
+            <l>Now then, <hi>So Ho!</hi> methinks I ſee</l>
+            <l>This Monſter in Effigie,</l>
+            <l>
+               <pb n="4" facs="tcp:152643:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 15 -->
+Th' Unkennel'd Fox with ſpeed purſue,</l>
+            <l>He ſtinks already, Boys <hi>Halloo;</hi>
+            </l>
+            <l>Fling in freſh Zeal and Loyalty,</l>
+            <l>The Leaders of the <hi>Chace</hi> to be,</l>
+            <l>Let all Mouths open, that <hi>ful-cry</hi>
+            </l>
+            <l>We may run down this Enemy;</l>
+            <l>Stop all his Grounds, that he may be</l>
+            <l>Defenceleſs 'gainſt his Deſtiny:</l>
+            <l>His Jeſuitick Cubs Immure,</l>
+            <l>If <hi>Jeſus</hi> Flock you would ſecure;</l>
+            <l>Spare not for Horſe-fleſh, follow on,</l>
+            <l>The Day already is half gone;</l>
+            <lg>
+               <l>Chaſe him through every Diſguiſe,</l>
+               <l>He'll piſs on's Tail to blind your Eyes,</l>
+               <l>But run him home, for ſoon he Dyes;</l>
+            </lg>
+            <l>If he chance t'Earth, dig after him,</l>
+            <l>The Country will with Spades come in.</l>
+            <l>Never then let your Spirits droop,</l>
+            <l>Till you have caught, uncas'd, and cry'd <hi>who whoop.</hi>
+            </l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
